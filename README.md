@@ -1,2 +1,2 @@
 # Quick_sort
-Implementation in c++
+Implementation in c++,  expected time complexity of O (nLogn)
